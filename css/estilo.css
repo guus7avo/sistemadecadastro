@@ -1,0 +1,49 @@
+/* @media only screen and (max-width: 767px) {} */
+
+body {
+	background-image: url("../img/school.jpg");
+	background-color: #cccccc;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	/* height: 640px; */
+}
+
+#texto {
+	text-align: center;
+	font-size: 25px;
+}
+
+#formulario {
+	text-align: right;
+}
+
+#botao {
+	text-align: center;
+}
+
+#box {
+	background-color: #dddcdc;
+	border-radius: 5%;
+	border: 1px solid;
+	color: #0400ff;
+}
+
+/* .table {
+	border-radius: 5%;
+} */
+
+
+/* .container .jumbotron {
+	background-color: #fafafa;
+
+  	display:grid;
+  	align-items: center;
+  	align-self: center;
+  	justify-content: center;
+  	position: absolute;
+  	margin-left: 17%;
+  	margin-top: 1.7%;
+} */
+

@@ -1,0 +1,50 @@
+body {
+	background-image: url("paper.gif");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container {
+	display: flex;
+  }
+
+#titulo {
+	text-align: center;
+	font-size: 1.25em;
+}
+
+#formulario {
+	text-align: right;
+	font-size: 0.95em;
+}
+
+#botao {
+	text-align: center;
+}
+
+#teste {
+	background-color: #fafafa;
+	border-radius: 5%;
+}
+
+/* .container .jumbotron {
+	background-color: #618bff;
+	height: 40em;
+	width: 35em;
+  	display:grid;
+  	align-items: center;
+  	align-self: center;
+  	justify-content: center;
+  	position: absolute;
+  	margin-left: 20%;
+  	margin-top: 1%;
+
+  	font-family: arial, helvetica, sans-serif;
+} */
+
+#resultado {
+	width: 60em;
+	margin-left: 6%;
+}
+
