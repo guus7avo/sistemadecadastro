@@ -26,24 +26,6 @@
 	WHERE idaluno = '$idaluno'";
 	
 	$resultado = mysqli_query($conexao, $result);
+
+	header("Location: index.php");
 ?>
-
-<div>
-	<meta charset="UTF-8"/>
-	<meta name=”viewport” content=”width=device-width, initial-scale=1, shrink-to-fit=no”>
-	<link rel="stylesheet" href="css\bootstrap\bootstrap\css\bootstrap.css">
-	<link rel="stylesheet" href="css\estilo.css">
-</div>
-
-<div class="container-fluid">
-	<div id="box" class="col-md-8 mt-5 offset-2">
-	<br>
-	<p id="texto">Dados alterados com sucesso</p>
-
-		<div id="botao">
-			<a class="btn btn-primary" href="menu.php" role="button">Voltar para o menu inicial	</a>
-			<a class="btn btn-light" onClick="history.go(-2)" role="button">Voltar</a>
-		</div>
-		<br>
-	</div>
-</div>

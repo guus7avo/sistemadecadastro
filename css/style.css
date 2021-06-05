@@ -1,0 +1,18 @@
+body {
+	/* background-image: url("../img/school.jpg"); */
+	background-color: #cccccc;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	/* height: 640px; */
+}
+
+footer{
+	background: #ffab62;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
