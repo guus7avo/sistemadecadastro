@@ -57,7 +57,7 @@
   <div class="container-fluid">
   	<a class="navbar-brand" href="#">
       <img src="../img/iconschool1.png" alt="" width="30" height="24" class="d-inline-block align-text-bottom">
-        Escola Municipal Tirsi Anna Castellani Gamberini
+        Escola Municipal
     </a>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav pull-right">
